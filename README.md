@@ -49,6 +49,7 @@ To prevent runtime errors, the program checks if `num2` is zero before performin
 **Summary:**
 This basic calculator program offers a user-friendly interface with menu-driven navigation. It supports fundamental arithmetic operations and incorporates error handling to enhance robustness.
 
+OUTPUT:
 
 ![Screenshot (379)](https://github.com/AliMuhammadRajwani/Basic-Calculator/assets/164401989/e0fa5e36-eba7-46eb-b533-b791648ee7dd)
 
